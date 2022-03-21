@@ -4,12 +4,7 @@ Overview of the school district analysis: Explain the purpose of this analysis.
 
 # **Results:**
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-
-## Replacing the ninth grade math and reading scores at Thomas High School
+## Replacing the 9th grade Math and Reading scores at Thomas High School
 ### Before the replacement, the Math and reading scores by grade:
 - The percentage passing math was 93%
 - The percentage passing reading was 69%
@@ -19,6 +14,8 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 - The percentage passing math was 93%
 - The percentage passing reading was 97%
 - An overall passing percentage of 90%
+
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ## *Scores by school spending*
 * Schools that spent less than $584 an average of 83% in both math and reading. 
