@@ -20,9 +20,6 @@ Aggregate data and showcase trends and school performance.
 
 🟢 An overall passing percentage of 90% 
 
-📉 The data analysis and results help the school board determine school budgets and priorities. 
-When replacing the 9th grades scores from Thomas High SChool, resulted in a higher overall passing percentage. 
-
 ## *Scores by school spending*
 ◽ Schools that spent less than $584 an average of 83% in both math and reading. 
     And an overall passing percentage of 90%.
@@ -52,5 +49,6 @@ When replacing the 9th grades scores from Thomas High SChool, resulted in a high
 
 # 🟩Summary: 
 
-Results can help the school board determine school budgets and priorities. 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+📉 The data analysis and results help the school board determine school budgets and priorities. 
+When replacing the 9th grades scores from Thomas High School it affected their performance.
+Thomas High School showcased a significantly higher overall passing percentage. 
